@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import { Moon, Sun, Menu, X, Github, Linkedin, Mail, ExternalLink, Code, Briefcase, User, Award } from 'lucide-react';
-import { ModeToggle } from './theme-toggler';
+// import { ModeToggle } from './theme-toggler';
 
 const Portfolio = () => {
     const [darkMode, setDarkMode] = useState(true);
